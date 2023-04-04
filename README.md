@@ -2,8 +2,8 @@
 # These are the following features of the system:
 <br /> <b>Admin Side</b>
 <br /><b> Lesson</b>
-<br /> 
-<br /> <ul>List of Lessons
+<br /> <ul>
+<li> List of Lessons</li>
 <li> Upload Lesson</li>
 <li> Edit Lesson</li>
 <li> Change the File</li>
@@ -11,25 +11,28 @@
 <li> Delete Lesson</li>
  </ul>
  <br/><b>Exercises</b>
-<br /> List of Question
-<br /> Add Question
-<br /> Edit Question
-<br /> Delete Question
+<br /><ul>
+<li> List of Question
+<li>Add Question</li>
+<li>Edit Question</li>
+<li>Delete Question</li>
 <br /><b> Student</b>
-<br /> List of Students
+<br /> List of Students</ul>
 <br /><b> Manage Users</b>
-<br /> 
-<br /> List of Users
-<br /> Add User
-<br /> Edit User
-<br /> Delete User
+<ul> 
+<li> List of Users</li>
+<li> Add User</li>
+<li> Edit User</li>
+<li> Delete User</li></ul>
 <br /><b> Student side</b>
-<br /> Create Account
-<br /> Login and Logout
-<br /> View Lesson
-<br /> Take Quizzes
-<br /> Generate Score
-<br /> Download Lessons
+<ul>
+<li> Create Account</li>
+<li> Login and Logout</li>
+<li> View Lesson</li>
+<li> Take Quizzes</li>
+<li> Generate Score</li>
+<li> Download Lessons</li>
+</ul>
 
 # How to set up the E-Learning System in PHP with Source Code
 <br /> Download the zip file.
