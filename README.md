@@ -9,28 +9,29 @@
 <li> Change the File</li>
 <li> View Lesson</li>
 <li> Delete Lesson</li>
-<li> Exercises</li>
-<br /> </ul>
+ </ul>
+ <br/><b>Exercises</b>
 <br /> List of Question
 <br /> Add Question
 <br /> Edit Question
 <br /> Delete Question
-<br /> Student
+<br /><b> Student</b>
 <br /> List of Students
-<br /> Manage Users
+<br /><b> Manage Users</b>
 <br /> 
 <br /> List of Users
 <br /> Add User
 <br /> Edit User
 <br /> Delete User
-<br /> Student side
+<br /><b> Student side</b>
 <br /> Create Account
 <br /> Login and Logout
 <br /> View Lesson
 <br /> Take Quizzes
 <br /> Generate Score
 <br /> Download Lessons
-<br /> How to set up the E-Learning System in PHP with Source Code
+
+# How to set up the E-Learning System in PHP with Source Code
 <br /> Download the zip file.
 <br /> Download and install XAMPP
 <br /> Run the XAMPP control panel and start MySQL and Apache
@@ -41,14 +42,15 @@
 <br /> Click Import to import the SQL file.
 <br /> Click choose file and select the dbcaiwl in the root folder of the source code
 <br /> Click go.
-<br /> How to run E-Learning System in PHP with Source Code
+
+# How to run E-Learning System in PHP with Source Code
 <br /> Open the browser and go to :
 <br /> 
 <br /> http://localhost/caiwl/ - for Students
 <br /> 
 <br /> http://localhost/admin/ - for Admin
 <br /> 
-<br /> <b>Accessing Admin Side
+<br /> <b>Accessing Admin Side</b>
 
 Username: janobe
 Password: admin
